@@ -1,6 +1,8 @@
 {
   "name": "wall",
-  "version": "0.0.0",
+  "description": "Load dynamic components with Angular",
+  "author": "Yuval Suede",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
